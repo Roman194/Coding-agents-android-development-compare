@@ -4,12 +4,12 @@ This repository shows an agregated results of the coding agents android dev comp
 Every agent on each prompt had 3 attempts to make it fully functional (as described in `PROMPT.txt`). <br/>
 All agent attempts are stored in the `test/*` branches inside appropriate repositories. 
 It's highly recommended to check the latest agent attempt to get a fully view on it work and whether its managed it or not. <br/>
-The extended research results are presented on the [link below]()
+The extended research results are presented on the [link below](https://docs.google.com/spreadsheets/d/1X_3QceWTF2oEjxFPMQ4UUwMt9rM9edY-x9YDRjgcVHc/edit?usp=sharing)
 
 ## Prompts
-- [Prompt No. 1 Compose navigation for "The Cupcake App"]() <br/>
-- [Prompt No. 2 UI-layout for "The Marvel App"]() <br/>
-- [Prompt No. 3 Data layer for "The Funny joke app"]()
+- [Prompt No. 1 Compose navigation for "The Cupcake App"](https://github.com/Roman194/Codelab-Cupcake-navigation-tutprial) <br/>
+- [Prompt No. 2 UI-layout for "The Marvel App"](https://github.com/Roman194/Marvel__app_project) <br/>
+- [Prompt No. 3 Data layer for "The Funny joke app"](https://github.com/Roman194/Funny-joke-app)
 
 ## Used coding agents sample for this research
 <img width="963" height="654" alt="image" src="https://github.com/user-attachments/assets/cfaebae4-330d-4fd1-af12-d4652259a434" />
